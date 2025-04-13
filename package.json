@@ -1,0 +1,27 @@
+{
+  "name": "polyflow-airdrop-bot",
+  "version": "1.0.0",
+  "description": "A simple automation bot to farm Scan2Earn points on PolyFlow by uploading and submitting invoices continuously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "polyflow",
+    "airdrop",
+    "scan2earn",
+    "bot",
+    "automation",
+    "airdropscript",
+    "web3",
+    "crypto",
+    "farm"
+  ],
+  "author": "dante4rt",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "colors": "^1.4.0"
+  }
+}
